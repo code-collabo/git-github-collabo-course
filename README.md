@@ -1,3 +1,8 @@
+
+> We no longer develop projects in this GitHub organisation. Head over to our new GitHub organisation to find projects to contribute to: https://github.com/collabo-community
+
+#
+
 # Git and Github for collaboration
 **Git and Github for collaboration** is the group name for the [@code-collabo](https://github.com/code-collabo) projects listed below: 
 - [code-collabo/git-and-github-course](https://github.com/code-collabo/git-and-github-course)
